@@ -1,0 +1,28 @@
+_repo: Gena-of-the-Appalachians_74594
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallin, Clarence Monroe
+    gutenberg_agent_id: '57573'
+    url: http://www.gutenberg.org/2009/agents/57573
+description: ''
+gutenberg_issued: '2024-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74594'
+language: en
+pgterms:marc904: https://archive.org/details/genaofappalachia00wall/mode/2up
+pgterms:marc905: 20240827142214wallin
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bCochrane Publishing Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gena of the Appalachians
+url: http://www.gutenberg.org/ebooks/74594
